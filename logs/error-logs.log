@@ -1,0 +1,15 @@
+2023.09.05, 15:17:08.0032 UTC -> Error: Cannot find module 'discord-giveaways'
+Require stack:
+- E:\Elysian\new web\test-2\events\client\ready.js
+- E:\Elysian\new web\test-2\functions\handlers\eventHandler.js
+- E:\Elysian\new web\test-2\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at module.exports (E:\Elysian\new web\test-2\events\client\ready.js:5:31)
+    at Client.emit (node:events:523:35)
+    at WebSocketManager.triggerClientReady (E:\Elysian\new web\test-2\node_modules\discord.js\src\client\websocket\WebSocketManager.js:388:17)
+    at WebSocketManager.checkShardsReady (E:\Elysian\new web\test-2\node_modules\discord.js\src\client\websocket\WebSocketManager.js:371:10)
+    at WebSocketShard.<anonymous> (E:\Elysian\new web\test-2\node_modules\discord.js\src\client\websocket\WebSocketManager.js:201:16)
+    at WebSocketShard.emit (node:events:511:28)

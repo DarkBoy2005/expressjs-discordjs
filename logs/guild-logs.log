@@ -1,0 +1,710 @@
+2023.09.05, 15:19:19.0934 UTC -> TYPING_START => {
+"channel_id":"1146806379894546563"
+"guild_id":"1107087616647634995"
+"user_id":"730221037001768972"
+}
+2023.09.05, 15:41:08.0239 UTC -> MESSAGE_CREATE => {
+"author_id":"1108785283715039343"
+"content":""
+"embeds":1
+"components":0
+"attachments":0
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 18:05:24.0221 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"We said revamp
+ so new website means new methods
+ means DISCORD AUTHENTICATION\n> I'm implementing a new never seen method of applying
+ which is 100x easier and safer than google forms. All you need is login
+ and get started! You don't need to identify yourself
+ we do that automatically for you 😉\nhttps://streamable.com/0f47w0"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 18:05:44.0882 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"@everyone"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 18:06:30.0120 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"Give me some ideas on what to do with this system. We can create anything 😎"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 18:09:31.0978 UTC -> MESSAGE_CREATE => {
+"author_id":"664588963419521024"
+"content":"Tough"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 18:09:33.0709 UTC -> MESSAGE_CREATE => {
+"author_id":"664588963419521024"
+"content":"Yuh"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 18:09:47.0073 UTC -> TYPING_START => {
+"channel_id":"1146806379894546563"
+"guild_id":"1107087616647634995"
+"user_id":"834562208045727745"
+}
+2023.09.05, 18:09:56.0062 UTC -> TYPING_START => {
+"channel_id":"1146806379894546563"
+"guild_id":"1107087616647634995"
+"user_id":"834562208045727745"
+}
+2023.09.05, 18:10:04.0372 UTC -> TYPING_START => {
+"channel_id":"1146806379894546563"
+"guild_id":"1107087616647634995"
+"user_id":"834562208045727745"
+}
+2023.09.05, 18:10:49.0047 UTC -> TYPING_START => {
+"channel_id":"1146806379894546563"
+"guild_id":"1107087616647634995"
+"user_id":"834562208045727745"
+}
+2023.09.05, 18:10:49.0758 UTC -> MESSAGE_CREATE => {
+"author_id":"834562208045727745"
+"content":"unis are easy"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 18:10:58.0076 UTC -> TYPING_START => {
+"channel_id":"1146806379894546563"
+"guild_id":"1107087616647634995"
+"user_id":"834562208045727745"
+}
+2023.09.05, 18:11:06.0565 UTC -> TYPING_START => {
+"channel_id":"1146806379894546563"
+"guild_id":"1107087616647634995"
+"user_id":"834562208045727745"
+}
+2023.09.05, 18:11:07.0516 UTC -> MESSAGE_CREATE => {
+"author_id":"834562208045727745"
+"content":"hard to find designers for cheap"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 18:15:32.0691 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"I already got one
+ <@587245544355921940> just waiting for our turn on his queue"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":1
+"mention_roles":0
+}
+2023.09.05, 19:02:27.0446 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:02:36.0825 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:02:38.0447 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"You mean that <#1146003771709739100> will be on website?"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:03:45.0826 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"329250127703441410"
+}
+2023.09.05, 19:03:45.0917 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"Yeah"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:03:47.0858 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"329250127703441410"
+}
+2023.09.05, 19:03:55.0956 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"329250127703441410"
+}
+2023.09.05, 19:04:04.0055 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"329250127703441410"
+}
+2023.09.05, 19:04:05.0276 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"We'll have a dashboard where we can review applications and  instantly accept/deny them with or without a reason"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:11:35.0263 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"Okay"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:11:38.0437 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:11:46.0524 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:11:54.0713 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:11:55.0413 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"As Staff Manager I will have something like panel that can accept/deny?"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:12:02.0951 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"Yep"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:12:29.0428 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"Tbh
+ all HR members will be able to access it
+ but mainly it'll be your job (if you stay as staff manager)"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:12:32.0442 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:12:32.0581 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"Really cool"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:12:39.0979 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"Yeah"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:12:44.0003 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:12:45.0795 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"I'll probably stay"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:12:47.0697 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:12:57.0096 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:13:05.0405 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:13:13.0333 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:13:16.0677 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"But it would be awesome if <@723141733906645042> would help me with revamp."
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":1
+"mention_roles":0
+}
+2023.09.05, 19:13:18.0749 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:13:26.0787 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:13:31.0272 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"We should do nicknames like Staff Manager | toffiere1"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:13:35.0647 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"Well
+ he's busy with irl stuff"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:13:40.0171 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"Ohh"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:13:47.0368 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"So he won't be around for long ig"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:13:59.0202 UTC -> GUILD_MEMBER_UPDATE => {
+"user":{
+"username":"toffiere"
+"public_flags":64
+"id":"891390284590612491"
+"global_name":"meh"
+"discriminator":"0"
+"avatar_decoration_data":null
+"avatar":"d7db66a42667a1feb7886be4437d6baa"
+}
+"guild_id":"1107087616647634995"
+}
+2023.09.05, 19:13:59.0862 UTC -> MESSAGE_CREATE => {
+"author_id":"1132411505023914045"
+"content":""
+"embeds":1
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:14:17.0220 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"I might also make a staff panel (like melonly) in that dashboard"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:14:23.0127 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:14:24.0017 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"Ohh that's nice"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:14:36.0790 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"I got so many ideas"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:14:45.0169 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:14:45.0449 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"Show them here"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:14:47.0411 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:14:52.0547 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"I will say what is necessary and what's not."
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:15:11.0636 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:15:20.0675 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:15:21.0416 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"Change your nick to Director | LitcherX"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:15:31.0997 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"Application form\nSupport form\nStaff panel\n(Possibly) CAD\nnecessary stuff (rules
+ privacy policy
+ tos
+ etc...)"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:15:41.0337 UTC -> GUILD_MEMBER_UPDATE => {
+"user":{
+"username":"_as."
+"public_flags":4194368
+"id":"329250127703441410"
+"global_name":"ace"
+"discriminator":"0"
+"avatar_decoration_data":null
+"avatar":"a_3e39bc9fae21ba549dfa849cc44c5fa1"
+}
+"guild_id":"1107087616647634995"
+}
+2023.09.05, 19:15:41.0777 UTC -> MESSAGE_CREATE => {
+"author_id":"1132411505023914045"
+"content":""
+"embeds":1
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:15:56.0634 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"How about using abbrevirations
+ like D
+ SM
+ etc.."
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:16:12.0209 UTC -> MESSAGE_UPDATE => {
+"author_id":"329250127703441410"
+"content":"How about using abbreviations
+ like D
+ SM
+ etc.."
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:16:13.0530 UTC -> MESSAGE_CREATE => {
+"author_id":"1132411505023914045"
+"content":""
+"embeds":1
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:16:35.0984 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"Also
+ home pages for departments"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:16:47.0416 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:16:57.0185 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:17:01.0630 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"There will be \"About HC\" ?"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:17:03.0682 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:17:07.0195 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"Like it was on the old site"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:17:34.0284 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"On the about us page
+ I'll create a section for \"server management\""
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:18:04.0595 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"C:"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:19:29.0174 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"Okay"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":1
+"mention_roles":0
+}
+2023.09.05, 19:19:35.0859 UTC -> GUILD_MEMBER_UPDATE => {
+"user":{
+"username":"toffiere"
+"public_flags":64
+"id":"891390284590612491"
+"global_name":"meh"
+"discriminator":"0"
+"avatar_decoration_data":null
+"avatar":"d7db66a42667a1feb7886be4437d6baa"
+}
+"guild_id":"1107087616647634995"
+}
+2023.09.05, 19:19:36.0211 UTC -> MESSAGE_CREATE => {
+"author_id":"1132411505023914045"
+"content":""
+"embeds":1
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:19:49.0504 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:19:51.0726 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"But we have Server Manager"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:19:53.0467 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:19:54.0609 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"And Staff Manager"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:19:56.0591 UTC -> TYPING_START => {
+"channel_id":"1146420844407574528"
+"guild_id":"1107087616647634995"
+"user_id":"891390284590612491"
+}
+2023.09.05, 19:19:57.0513 UTC -> MESSAGE_CREATE => {
+"author_id":"891390284590612491"
+"content":"It's SM and SM"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:20:51.0448 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"SeM for server manager"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}
+2023.09.05, 19:20:55.0983 UTC -> MESSAGE_CREATE => {
+"author_id":"329250127703441410"
+"content":"SaM for staff manager"
+"embeds":0
+"components":0
+"attachments":0
+"guild_id":"1107087616647634995"
+"mentions":0
+"mention_roles":0
+}

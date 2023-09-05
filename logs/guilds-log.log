@@ -1,0 +1,36 @@
+2023.09.05, 19:13:59.0231 UTC -> GUILD_AUDIT_LOG_ENTRY_CREATE => {
+"user_id":"891390284590612491"
+"target_id":"891390284590612491"
+"id":"1148697559603368089"
+"changes":[{
+"old_value":"Won_Dev (@toffiere1)"
+"new_value":"Staff Manager | toffiere1"
+"key":"nick"
+}]
+"action_type":24
+"guild_id":"1107087616647634995"
+}
+2023.09.05, 19:15:41.0367 UTC -> GUILD_AUDIT_LOG_ENTRY_CREATE => {
+"user_id":"329250127703441410"
+"target_id":"329250127703441410"
+"id":"1148697988047319164"
+"changes":[{
+"old_value":"LitcherX"
+"new_value":"D | LitcherX"
+"key":"nick"
+}]
+"action_type":24
+"guild_id":"1107087616647634995"
+}
+2023.09.05, 19:19:35.0940 UTC -> GUILD_AUDIT_LOG_ENTRY_CREATE => {
+"user_id":"891390284590612491"
+"target_id":"891390284590612491"
+"id":"1148698971649347666"
+"changes":[{
+"old_value":"Staff Manager | toffiere1"
+"new_value":"SM | toffiere1"
+"key":"nick"
+}]
+"action_type":24
+"guild_id":"1107087616647634995"
+}
